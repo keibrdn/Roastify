@@ -1,7 +1,7 @@
 # Roastify
 
-![Home Page](https://imgur.com/X59YYfQ)
-![Results Page](https://imgur.com/a/6hzFhBX)
+<img width="500" alt="home_page_roastify" src="https://github.com/keibrdn/Roastify/assets/44176994/cc4a5842-d514-465c-adb6-43f03e5d1319">
+<img width="500" alt="results_page_roastify" src="https://github.com/keibrdn/Roastify/assets/44176994/e431b7c2-4be3-470e-b525-77dff33b3cdf">
 
 > Roastify is a web application that generates personalized "roasts" for users based on their top artists. The application utilizes the Spotify API to fetch users' top artists and communicates with OpenAI's ChatGPT-3 model to generate a humorous assessment of what a user's music preferences say about them.
 
